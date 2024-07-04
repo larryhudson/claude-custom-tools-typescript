@@ -26,7 +26,7 @@ To get this up and running on your own computer, you'll need:
 ## Set up instructions
 1. Clone this repository, then move into the directory and run `npm install` to install the dependencies:
 ```
-git clone <clone url>
+git clone https://github.com/larryhudson/claude-custom-tools-typescript.git
 cd claude-custom-tools-typescript
 npm install
 ```
